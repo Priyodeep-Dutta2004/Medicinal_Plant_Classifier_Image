@@ -45,7 +45,7 @@ We used a real image dataset of Indian medicinal plant leaves, organized into fo
 ## 📊 Evaluation
 
 - *Classification Report*
-- [Classification Report](Classification Report.txt)
+- [Classification Report](Classification_Report.txt)
 
 - *Confusion Matrix*
 - Validation Accuracy: ~ 85% depending on dataset size
