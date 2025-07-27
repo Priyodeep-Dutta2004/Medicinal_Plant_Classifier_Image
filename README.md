@@ -44,8 +44,28 @@ We used a real image dataset of Indian medicinal plant leaves, organized into fo
 
 ## 📊 Evaluation
 
-- *Classification Report*
-- [Classification Report](Classification_Report.txt)
+- ## *Classification Report*
+
+| Class           | Precision | Recall | F1-score | Support |
+|------------------|-----------|--------|----------|---------|
+| Aloevera         | 0.12      | 0.12   | 0.12     | 32      |
+| Amla             | 0.00      | 0.00   | 0.00     | 29      |
+| Amruta_Balli     | 0.03      | 0.03   | 0.03     | 29      |
+| Arali            | 0.03      | 0.03   | 0.03     | 29      |
+| Ashoka           | 0.06      | 0.07   | 0.07     | 29      |
+| Ashwagandha      | 0.00      | 0.00   | 0.00     | 29      |
+| Avacado          | 0.03      | 0.03   | 0.03     | 29      |
+| Bamboo           | 0.00      | 0.00   | 0.00     | 29      |
+| Basale           | 0.00      | 0.00   | 0.00     | 29      |
+| Betel            | 0.07      | 0.07   | 0.07     | 30      |
+| (+ more classes) | ...       | ...    | ...      | ...     |
+
+### 🔹 Overall Accuracy
+
+- *Accuracy*: 0.04
+- *Macro Avg*: Precision = 0.04, Recall = 0.04, F1 = 0.04
+- *Weighted Avg*: Precision = 0.04, Recall = 0.04, F1 = 0.04
+- *Total Samples*: 1180
 
 - *Confusion Matrix*
 - Validation Accuracy: ~ 85% depending on dataset size
